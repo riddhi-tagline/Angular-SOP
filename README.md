@@ -55,7 +55,7 @@ Simple OOPs concepts, eg.class, interface, inheritance
 4. Syncfusion Angular https://ej2.syncfusion.com/angular/documentation/introduction/. (for calenders and events)
 5. PrimeNG https://primefaces.org/primeng/showcase/#/setup
 
-# Project Mangement tools
+# Project Tasks Mangement tools
 1. Asana (Every project is managed using asana in the company).
 2. Trello
 3. Jira
@@ -64,6 +64,7 @@ Simple OOPs concepts, eg.class, interface, inheritance
 # Version control 
 1. Github
 2. GitLab
+3. Bitbucket
 
 
 # Send Daily Update use following link
